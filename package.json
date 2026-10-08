@@ -1,0 +1,13 @@
+{
+  "name": "preentrega-node",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos con la API FakeStore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Leoisamer Gil",
+  "license": "LDVGT"
+}
